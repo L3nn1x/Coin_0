@@ -1,5 +1,5 @@
 import smtplib, ssl
-from TheWeirdHash import TWH
+
 
 def send(message, passwd, senderGmail, reciverGmail):
     try:
