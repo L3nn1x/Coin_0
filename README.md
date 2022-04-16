@@ -6,4 +6,8 @@
   pip install pywhatkit
   
   pip install colorama
+  
+  pip install ssl
+  
+  pip install smtplib
 
